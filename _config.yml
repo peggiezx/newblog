@@ -1,0 +1,11 @@
+# basic options, this line will be ignored
+title: Peggie's Portfolio
+author: peggiezx
+email: your-email@domain.com
+description: This is Peggie Zhong's portfolio website - A wonderful site
+twitter_username: pajichan
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
